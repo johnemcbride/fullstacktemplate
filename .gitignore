@@ -1,2 +1,3 @@
 backend/mysite/db.sqlite3
-backend/mysite/db.sqlite3
+backend/mysite/django.log
+backend/mysite/.fuse*
